@@ -1,0 +1,11 @@
+{
+  "name": "fenrir-script",
+  "version": "1.0.0",
+  "description": "custom scripting lang that compiles down to JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wolfleader101",
+  "license": "MIT"
+}

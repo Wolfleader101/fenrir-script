@@ -4,7 +4,7 @@
   "description": "custom scripting lang that compiles down to JS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "author": "Wolfleader101",
   "license": "MIT"
